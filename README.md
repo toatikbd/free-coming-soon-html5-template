@@ -8,4 +8,4 @@ Run `index.html` for a dev server. Navigate to `http://localhost:index.html/`. T
 
 ## Further help
 
-To get more help on the coming-soon-html5-template use `html help` or go check out the [free-coming-soon-html5-template README](https://github.com/toatikbd/free-coming-soon-html5-templateREADME.md).
+To get more help on the coming-soon-html5-template use `html help` or go check out the [free-coming-soon-html5-template README](https://github.com/toatikbd/free-coming-soon-html5-template/blob/master/README.md).
